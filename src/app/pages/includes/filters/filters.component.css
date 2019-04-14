@@ -1,0 +1,20 @@
+.pd-minus{
+    padding:0px 5px;
+}
+span{
+    color:#FFF;
+    font-size:12px;
+}
+span strong{
+    font-size: 18px;
+}
+label{
+    font-size:12px;
+    font-weight: initial;
+    color:#FFF;
+}
+select{
+    background-color:transparent;
+    color:#FFF;
+    font-weight: bolder;
+}
